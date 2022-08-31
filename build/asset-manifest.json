@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Magic-Dogs/static/css/main.2705784f.chunk.css",
+    "main.js": "/Magic-Dogs/static/js/main.63b7ad3b.chunk.js",
+    "main.js.map": "/Magic-Dogs/static/js/main.63b7ad3b.chunk.js.map",
+    "runtime-main.js": "/Magic-Dogs/static/js/runtime-main.6277d9e2.js",
+    "runtime-main.js.map": "/Magic-Dogs/static/js/runtime-main.6277d9e2.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/Magic-Dogs/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/Magic-Dogs/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/Magic-Dogs/index.html",
+    "static/css/main.2705784f.chunk.css.map": "/Magic-Dogs/static/css/main.2705784f.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/Magic-Dogs/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6277d9e2.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.2705784f.chunk.css",
+    "static/js/main.63b7ad3b.chunk.js"
+  ]
+}
